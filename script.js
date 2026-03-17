@@ -1,6 +1,6 @@
 
 // Link único do formulário de inscrição
-const inscricaoURL = 'https://forms.gle/P5rBL3obLRWZvCFR6'; // Substitua pelo link real
+const inscricaoURL = 'https://forms.gle/13yJs31cuJRycKgu8'; // Substitua pelo link real
 
 function openForm() {
     if (inscricaoURL && !inscricaoURL.includes('SEU_LINK_AQUI')) {
